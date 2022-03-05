@@ -14,6 +14,7 @@ The paddle is split into five parts and each part gives the ball a different vel
 Compiling and running the game is made with apache ant.
 
  - Download the project or clone it using the command: `git clone https://github.com/TOMER-77/Arkanoid.git`
+ - Navigate to the game folder.
  - compile with `ant compile`
  - There are two ways to run the game:
  - Running with `ant run` will run the four levels      by their order.
