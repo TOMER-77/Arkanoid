@@ -17,10 +17,10 @@ Compiling and running the game is made with apache ant.
  - Navigate to the game folder.
  - compile with `ant compile`
  - There are two ways to run the game:
- - Running with `ant run` will run the four levels      by their order.
- - You can customizethe order of the levels being played.
- - - For example: using `ant -Dargs="4" run` will run only the fourth level.
- - - Using `ant -Dargs="1 4 3 4 3" run` will play the levels 1,4,3,4,3 in this exact order.
+ - 1. Running with `ant run` will run the four levels      by their order.
+ - 2. You can customizethe order of the levels being played.
+ - - - For example: using `ant -Dargs="4" run` will run only the fourth level.
+ - - - Using `ant -Dargs="1 4 3 4 3" run` will play the levels 1,4,3,4,3 in this exact order.
 ## Playing the game
 
 - The left and right arrow keys are used to control the movement of the paddle.
